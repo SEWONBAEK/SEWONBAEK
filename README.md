@@ -1,5 +1,8 @@
 ## Hi there 👋
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+
 <!--
 **SEWONBAEK/SEWONBAEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
