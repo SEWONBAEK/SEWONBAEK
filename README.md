@@ -2,7 +2,6 @@
 
 ## 💻 Tech Stack
 ### 📱 Frontend
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <div align="left">
   <img src="https://github.com/user-attachments/assets/fe8dce2c-5189-4810-9b52-2798690ca8c0" color=#6DB33F height="50"/>
   <img src="https://github.com/user-attachments/assets/cf851935-ec70-475b-b5ab-18d67be53129" height="50"/>
@@ -13,6 +12,7 @@
 </div>
 ### ⚙️ Backend & Database
 <div width="100%">
+  <img src="https://github.com/user-attachments/assets/20bee7e5-ec76-4db1-a160-54af20f172a8" height="50" alt="Spring">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
