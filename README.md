@@ -2,21 +2,18 @@
 
 ## 💻 Tech Stack
 ### 📱 Frontend
-<div align="left">
 
-  <img src="https://github.com/user-attachments/assets/5ed3ab03-4ef6-42e9-b8d2-71a59199219b" height="50"/>
-
-</div>
 ### ⚙️ Backend & Database
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
   <img src="https://github.com/user-attachments/assets/0610da35-c243-4699-9541-0884b6a376e9" height="50" alt="Spring">
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
 </div>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 ### 🛠️ Tools
 <div align="left">
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
+  <img src="https://github.com/user-attachments/assets/af2fd6d2-877b-4554-afea-e36699e6edae" alt="GitHub" height="50px">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="100">
   <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" height="100">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="100">
