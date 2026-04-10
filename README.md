@@ -3,7 +3,7 @@
 ## 💻 Tech Stack
 ### 📱 Frontend
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/fe8dce2c-5189-4810-9b52-2798690ca8c0&logoColor=#6DB33F" height="50"/>
+  <img src="https://github.com/user-attachments/assets/fe8dce2c-5189-4810-9b52-2798690ca8c0" color=#6DB33F height="50"/>
   <img src="https://github.com/user-attachments/assets/cf851935-ec70-475b-b5ab-18d67be53129" height="50"/>
   <img src="https://github.com/user-attachments/assets/0ead434f-2f41-4858-859e-61a0885117ad" height="50"/>
   <img src="https://github.com/user-attachments/assets/d4e2e6aa-17ff-4bc8-b1f4-c89d967809b5" height="50"/>
