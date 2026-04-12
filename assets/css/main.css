@@ -2242,7 +2242,7 @@ input[type=button]:disabled,
   color: #f8f9fa;
 }
 #header a:hover {
-  color: #0056b3 !important;
+  color: #343a40 !important;
 }
 #header > header {
   -ms-flex-shrink: 0;
