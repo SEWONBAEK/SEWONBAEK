@@ -2508,7 +2508,7 @@ input[type=button]:disabled,
     font-weight: 900;
   }
   #titleBar .toggle:before {
-    background: #FFF;
+    background: #F6E05E;
     color: #fffaf0;
     content: "\f0c9";
     display: block;
