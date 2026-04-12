@@ -115,7 +115,7 @@ a {
 }
 a:hover {
   border-bottom-color: transparent;
-  color: #343a40 !important;
+  color: #888 !important;
 }
 
 strong,
@@ -193,7 +193,7 @@ sup {
 
 hr {
   border: 0;
-  border-bottom: solid 2px #343a40;
+  border-bottom: solid 2px #888;
   margin: 2.25em 0;
 }
 hr.major {
@@ -1829,7 +1829,7 @@ ul.alt {
   padding-left: 0;
 }
 ul.alt li {
-  border-top: solid 2px #343a40;
+  border-top: solid 2px #888;
   padding: 0.5em 0;
 }
 ul.alt li:first-child {
@@ -2000,7 +2000,7 @@ table {
   width: 100%;
 }
 table tbody tr {
-  border: solid 2px #343a40;
+  border: solid 2px #888;
   border-left: 0;
   border-right: 0;
 }
@@ -2122,7 +2122,7 @@ input[type=submit].alt:hover,
 input[type=reset].alt:hover,
 input[type=button].alt:hover,
 .button.alt:hover {
-  background-color: #343a40;
+  background-color: #888;
   color: #777 !important;
 }
 input[type=submit].alt:active,
@@ -2172,7 +2172,7 @@ input[type=button]:disabled,
 
 /* Features */
 .features article {
-  border-top: solid 3px #343a40;
+  border-top: solid 3px #888;
   margin-bottom: 2.25em;
   padding-top: 2.25em;
 }
@@ -2242,7 +2242,7 @@ input[type=button]:disabled,
   color: #f8f9fa;
 }
 #header a:hover {
-  color: #343a40 !important;
+  color: #888 !important;
 }
 #header > header {
   -ms-flex-shrink: 0;
@@ -2316,7 +2316,7 @@ input[type=button]:disabled,
 
 /* Main */
 #main > section {
-  border-top: solid 6px #343a40;
+  border-top: solid 6px #888;
 }
 #main > section > .container {
   padding: 6em 0 4em 0;
