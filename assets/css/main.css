@@ -139,7 +139,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #f8f9fa;
+  color: #343a40;
   font-weight: 700;
   line-height: 1em;
   margin: 0 0 0.5625em 0;
@@ -2311,7 +2311,7 @@ input[type=button]:disabled,
 
 /* Wrapper */
 #wrapper {
-  background: #2d3436;
+  background: #f8f9fa;
   padding-right: 23em;
 }
 
