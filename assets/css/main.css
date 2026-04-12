@@ -2316,7 +2316,7 @@ input[type=button]:disabled,
 
 /* Main */
 #main > section {
-  border-top: solid 6px #f5f5dc;
+  border-top: solid 6px #343a40;
 }
 #main > section > .container {
   padding: 6em 0 4em 0;
