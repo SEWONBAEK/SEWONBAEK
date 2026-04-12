@@ -108,6 +108,7 @@ textarea {
 }
 
 a {
+  color: ##f8f9fa;
   transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   border-bottom: solid 1px #e4e4e4;
   text-decoration: none;
@@ -2209,8 +2210,8 @@ input[type=button]:disabled,
   -moz-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #006400;
-  color: #bfd5b4;
+  background: #0056b3;
+  color: #f8f9fa;
   height: 100%;
   overflow-y: auto;
   position: fixed;
@@ -2225,7 +2226,7 @@ input[type=button]:disabled,
 #header h4,
 #header h5,
 #header h6 {
-  color: #fffaf0;
+  color: #f8f9fa;
 }
 #header h1 a,
 #header h2 a,
@@ -2233,16 +2234,16 @@ input[type=button]:disabled,
 #header h4 a,
 #header h5 a,
 #header h6 a {
-  color: #fffaf0;
+  color: #f8f9fa;
 }
 #header header p {
-  color: #99be90;
+  color: #f8f9fa;
 }
 #header a {
-  color: #bfd5b4;
+  color: #f8f9fa;
 }
 #header a:hover {
-  color: #fffaf0 !important;
+  color: #0056b3 !important;
 }
 #header > header {
   -ms-flex-shrink: 0;
